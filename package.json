@@ -1,0 +1,11 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "Personal portfolio website for Maheshwari Halladamala",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server -p 8080 --silent"
+  },
+  "author": "Maheshwari Halladamala",
+  "license": "MIT"
+}
